@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "name": "dot by dot",
+  "description": "Everything is made of dots",
+  "icons": {
+    "128": "/a/labs/dots/assets/icon-128.png",
+    "256": "/a/labs/dots/assets/icon-256.png"
+  },
+  "developer": {
+    "name": "Saqoosha",
+    "url": "http://saqoo.sh/a/"
+  },
+  "launch_path": "/a/labs/dots/",
+  "installs_allowed_from": [
+    "https://marketplace.firefox.com",
+    "*"
+  ],
+  "permissions": {}
+}
